@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dandragu99
-- 👀 I’m interested in Java, Python, JavaScript, SQL, Kotlin
+- 👀 I’m interested in Java, Python, Kotlin, SQL, JavaScript
 - 🌱 I’m currently learning a degree to develop cross-platform applications
 - 💞️ I’m looking to collaborate on something cool
 - 📫 How to reach me dandragu99@hotmail.com
