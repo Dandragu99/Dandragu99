@@ -22,7 +22,8 @@
 ### 📊 GitHub Stats
 
 ![Dandragu99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dandragu99&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dandragu99&layout=compact&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dandragu99&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
 
 ---
 
@@ -60,7 +61,8 @@ Always open to new opportunities, collaborations, and exciting projects!
 ### 📊 Mis estadísticas de GitHub
 
 ![Estadísticas de Dandragu99](https://github-readme-stats.vercel.app/api?username=Dandragu99&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Dandragu99&layout=compact&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Dandragu99&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
 
 ---
 
