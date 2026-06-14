@@ -1,73 +1,34 @@
-# Hi there! 👋 I'm @Dandragu99
+## Hola, soy Danut 👋
 
-### Passionate developer specialized in cross-platform applications
+Desarrollador Full Stack Junior con formación en DAM y especialización en Big Data e IA.
+Busco mi primer empleo como desarrollador en Madrid.
 
-- 👀 **Interested in**: Java, Kotlin, Python, SQL, JavaScript  
-- 🌱 **Currently building**: Modern cross-platform solutions  
-- 💞️ **Open to collaborate** on interesting and challenging projects  
-- 📫 **Reach me at**: [dandragu99@hotmail.com](mailto:dandragu99@hotmail.com)
+**Stack principal:** Java · Spring Boot · Angular · MySQL
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🚀 Proyecto destacado
+
+**[Ana's Bakery](https://github.com/Dandragu99/tartas-frontend)** — E-commerce full stack para pastelería
+- Frontend en Angular con autenticación JWT, carrito, configurador de tartas y panel admin
+- Backend en Spring Boot con API REST, JPA/Hibernate y despliegue en Railway
+- [Demo en vivo](https://ana-bakery.netlify.app/inicio)
+
+---
+
+### 🛠️ Tecnologías
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Dandragu99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dandragu99&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dandragu99&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook)
-
----
-
-### ✨ About me
-
-I'm a developer with a strong focus on creating high-quality cross-platform applications. I enjoy turning ideas into functional and performant software using modern technologies.
-
-Always open to new opportunities, collaborations, and exciting projects!
-
----
-
----
-
-## ¡Hola! 👋 Soy @Dandragu99
-
-### Desarrollador apasionado especializado en aplicaciones multiplataforma
-
-- 👀 **Me interesan**: Java, Kotlin, Python, SQL, JavaScript  
-- 🌱 **Actualmente**: Creando soluciones multiplataforma modernas  
-- 💞️ **Busco colaborar** en proyectos interesantes y desafiantes  
-- 📫 **Contáctame en**: [dandragu99@hotmail.com](mailto:dandragu99@hotmail.com)
-
----
-
-### 🛠️ Tecnologías y herramientas
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 📊 Mis estadísticas de GitHub
+### 📫 Contacto
 
-![Estadísticas de Dandragu99](https://github-readme-stats.vercel.app/api?username=Dandragu99&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Dandragu99&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook)
-
----
-
-### ✨ Sobre mí
-
-Soy un desarrollador con enfoque en la creación de aplicaciones multiplataforma de alta calidad. Me apasiona convertir ideas en software funcional y con buen rendimiento utilizando tecnologías modernas.
-
-¡Siempre abierto a nuevas oportunidades, colaboraciones y proyectos emocionantes!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dandragu99)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dandragu99@hotmail.com)
