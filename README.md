@@ -1,4 +1,4 @@
-## Hola, soy Danut 👋
+## Hola, soy Danut 
 
 Desarrollador Full Stack Junior con formación en DAM y especialización en Big Data e IA.
 Busco mi primer empleo como desarrollador en Madrid.
@@ -7,7 +7,7 @@ Busco mi primer empleo como desarrollador en Madrid.
 
 ---
 
-### 🚀 Proyecto destacado
+### Proyecto destacado
 
 **[Ana's Bakery](https://github.com/Dandragu99/tartas-frontend)** — E-commerce full stack para pastelería
 - Frontend en Angular con autenticación JWT, carrito, configurador de tartas y panel admin
@@ -16,7 +16,7 @@ Busco mi primer empleo como desarrollador en Madrid.
 
 ---
 
-### 🛠️ Tecnologías
+### Tecnologías
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -28,7 +28,7 @@ Busco mi primer empleo como desarrollador en Madrid.
 
 ---
 
-### 📫 Contacto
+### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dandragu99)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dandragu99@gmail.com)
